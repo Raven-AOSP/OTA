@@ -1,0 +1,29 @@
+{
+  "response": [
+    {
+      "maintainer": "Ripp3r",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "Redmi Note 8 Pro",
+      "filename": "",
+      "download": "",
+      "timestamp": ,
+      "md5": "",
+      "sha256": "",
+      "size": ,
+      "version": "",
+      "buildtype": "",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "THToufique",
+      "initial_installation_images": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "extra_images": []
+    }
+  ]
+}
